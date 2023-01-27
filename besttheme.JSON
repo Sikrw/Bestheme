@@ -3,12 +3,12 @@
 "author" : "Sikr",
 "name" : "Bestheme",
 "keyWords" : "keyword1,keyword2",
-"version" : "1.0.0",
+"version" : "0.1.0",
 "dofusVersion" : "2.66",
-"description" : "Description",
-"url" : "L'URL d'hébergement du thème",
+"description" : "En construction",
+"url" : "https://github.com/Sikrw/Bestheme/raw/master/Bestheme.zip",
 "previewUrl" : "L'URL d'hébergement de l'image de présentation",
-"creationDate" : "JJ/MM/AAAA",
-"modificationDate" : "JJ/MM/AAAA"
+"creationDate" : "26/01/2023",
+"modificationDate" : "27/01/2023"
 }
 ]
